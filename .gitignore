@@ -2,3 +2,4 @@
 *.egg-info/
 build/
 **.so
+=1.2.0
